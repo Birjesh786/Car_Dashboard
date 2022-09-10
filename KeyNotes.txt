@@ -1,0 +1,21 @@
+peak power  == They are the highest seen figures on a power or torque curve. 
+they tell you what power and torque a vehicle is making on that specific dyno, on that specific day.
+
+peak torque ==== his torque peak is when the engine has reached its most efficient and maximum speed for that torque rating.
+Once a car is moving, torque is less important. For example, when cruising on the highway,
+ the engine typically operates in its highest gear and at the lowest possible rpm.
+
+transmission ===  a car transmission is a vehicle’s gearbox. It’s roughly analogous to the gear shifter and chain system that bicycles use.
+
+
+
+
+boot space === Boot space means the space to keep our luggages. And it will be on the back of the car. In hutch backs it will be just back of the rear seat where as in sedans it will be acting as a seperate unit and the boot space is normally said in liters like 450 liters of boot etc
+
+
+
+turning radius === The turning diameter of a vehicle is the minimum diameter (or "width") of available space required for that vehicle to make a circular turn (i.e. U-turn). The term thus refers to a theoretical minimal circle in which for example an aeroplane, a ground vehicle or a watercraft can be turned around.
+
+
+
+displacement  ==== Engine displacement is the measure of the cylinder volume swept by all of the pistons of a piston engine, excluding the combustion chambers.
